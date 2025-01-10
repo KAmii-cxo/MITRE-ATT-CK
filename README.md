@@ -4,9 +4,12 @@
 MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) is a comprehensive framework developed by MITRE Corporation. It provides a detailed mapping of the tactics, techniques, and procedures (TTPs) used by adversaries in cyberattacks. The framework is designed to help security teams understand how attackers operate, identify potential threats, and improve their defenses. Here's an overview of its key components:
 
 ## 1. Tactics
-Tactics represent the why of an attack – the adversary's goal or objective. Each tactic corresponds to a high-level goal that the attacker tries to achieve during the attack lifecycle. MITRE ATT&CK includes several tactics, such as:
-	• Initial Access: Gaining entry to a network.
-	• Execution: Running malicious code on a target system.
+Tactics represent the why of an attack – the adversary's goal or objective. Each tactic corresponds to a high-level goal that the attacker tries to achieve during the attack lifecycle. 
+
+- **MITRE ATT&CK includes several tactics, such as** :
+  
+   	• Initial Access: Gaining entry to a network.
+  	• Execution: Running malicious code on a target system.
 	• Persistence: Ensuring continued access to the target system.
 	• Privilege Escalation: Gaining higher-level privileges on the system.
 	• Defense Evasion: Avoiding detection and staying under the radar.
@@ -43,5 +46,4 @@ The ATT&CK Matrix is the heart of the framework, organizing the tactics, techniq
 ## Conclusion
 MITRE ATT&CK is a valuable resource for cybersecurity professionals to enhance threat detection, response, and defense strategies. It provides a common language for discussing and understanding cyber threats and helps organizations build more resilient security operations.
 
-From <https://chatgpt.com/c/6780e64f-a10c-8007-8d5e-66ae141f118d> 
 ![image](https://github.com/user-attachments/assets/4f4188b8-cecf-4184-8cc7-c32dc49eeb28)
