@@ -45,5 +45,3 @@ The ATT&CK Matrix is the heart of the framework, organizing the tactics, techniq
 
 ## Conclusion
 MITRE ATT&CK is a valuable resource for cybersecurity professionals to enhance threat detection, response, and defense strategies. It provides a common language for discussing and understanding cyber threats and helps organizations build more resilient security operations.
-
-![image](https://github.com/user-attachments/assets/4f4188b8-cecf-4184-8cc7-c32dc49eeb28)
